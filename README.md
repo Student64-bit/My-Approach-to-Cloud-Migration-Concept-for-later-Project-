@@ -1,4 +1,4 @@
-# AWS Cloud Migration Concept & Project Overview
+# AWS Cloud Migration Concept For Later Project
 
 ## Introduction
 Cloud migration is a critical endeavor for many organizations looking to leverage the benefits of cloud computing. The migration process is often guided by the "Seven Rs of Migration": Retain, Retire, Relocate, Refactor, Repurchase, Replatform, and Rehost. These strategies are chosen based on the existing infrastructure and specific needs of the organization. While addressing these strategies, this document will focus on the broader lifecycle of a cloud migration project: Preparation, Planning, Migration, Monitoring, and Optimization.
